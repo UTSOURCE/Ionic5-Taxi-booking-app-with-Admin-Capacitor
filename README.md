@@ -82,7 +82,7 @@ See how amazing it is:
 - Always get help when you need it
 
 <p align="center">
-  <a href="https://wa.me/2347089930308" target="_blank">
+  <a href="https://wa.me/2347041684556" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Full%20System-FF6F00?style=for-the-badge&logo=price-tag&logoColor=white" alt="Get Full System" width="250" />
   </a>
 </p>
@@ -97,7 +97,7 @@ See how amazing it is:
 Need help? We're always here for you:
 
 <p align="center">
-  <a href="https://wa.me/2347089930308" target="_blank">
+  <a href="https://wa.me/2347041684556" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:chndth@gmail.com" target="_blank">
