@@ -2,30 +2,29 @@
  <img src="https://user-images.githubusercontent.com/7928001/188144579-62391f1e-27a4-438d-8574-e98df9c71ea5.png" alt="Watch the video" width="auto" height="auto" border="10" />
 </a>
 
-## 🚀 Welcome to the Future of Ride-Hailing!
+# ⚠️ URGENT WARNING: THIS REPOSITORY IS DEPRECATED & BUGGY ⚠️
 
-![WhatsAppVideo2024-12-07at4 15 54PMonline-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ae62e39c-40d5-421c-88f3-23273ab9657a)
+This public repository contains the **old, unstable source code** built on **Ionic 5 / Angular 12**.
 
-Hey there! We've created something special - a complete taxi booking system that's as powerful as Uber or Bolt, but built just for you! Start small with our free rider app and grow bigger whenever you're ready. 
+**DO NOT USE THIS CODE FOR PRODUCTION.** It has known issues with modern mobile operating systems (iOS 17+ and Android 14+).
 
-### 🌟 What's in the Box?
+---
 
-1. **Rider App** - Free and open source! This is where your journey begins
-2. **Driver App** - Premium version for when you're ready to grow
-3. **Admin Dashboard** - Your command center to manage everything
+## ✅ GET THE STABLE, PRODUCTION-READY SYSTEM (2025 EDITION)
+
+The **NEW, fully-supported** version is built on **Ionic 8 & Angular 18**. This is what you need to launch a reliable service.
 
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1HQkCURnn-Gs8Q1RHNbFZnZcdUzNLgkU2?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Try%20Demo-FF5722?style=for-the-badge&logo=google-play&logoColor=white" alt="Try Demo" width="200" />
-  </a>
   <a href="https://ko-fi.com/s/7766e6affd" target="_blank">
-    <img src="https://img.shields.io/badge/Get%20Full%20System-4CAF50?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="Get Full System" width="200" />
+    <img src="https://img.shields.io/badge/Get%20Full%20System%20(Ionic%208)-4CAF50?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="Get Full System" width="300" />
   </a>
 </p>
 
-## 🧪 Take It For a Spin! (Live Demos)
+---
 
-Experience the full ecosystem. Download the apps or access the web panel below:
+## 🧪 Take It For a Spin! (Live Demos of the New System)
+
+Experience the full power of the new Ionic 8 ecosystem before you buy.
 
 | Role | Platform | Action |
 | :--- | :---: | :--- |
@@ -33,27 +32,23 @@ Experience the full ecosystem. Download the apps or access the web panel below:
 | **Driver** | Android / iOS | [**🚖 Download Driver App**](https://drive.google.com/drive/folders/1HQkCURnn-Gs8Q1RHNbFZnZcdUzNLgkU2?usp=sharing) |
 | **Admin** | Web Dashboard | [**💻 Access Admin Panel**](https://drive.google.com/drive/folders/1HQkCURnn-Gs8Q1RHNbFZnZcdUzNLgkU2?usp=sharing) |
 
-> **Note:** For the Admin Panel, use the credentials provided in the link or contact us for test access.
+> **Note:** The Rider App in this repository is the only component released for free (MIT License). All other components require the premium license.
 
 ---
 
-## 📱 Amazing Features You'll Love
+## 🏆 Success Stories: Businesses Launching with the Ionic 8 System
 
-- Easy sign-up and login with phone or email
-- Simple, user-friendly booking screen
-- Watch your ride arrive in real-time
-- Safe and secure payments
-- Driver-friendly registration and login
-- Fair pricing that you control
-- Live ride tracking from your admin dashboard
-- Smooth Stripe payments
-- Beautiful interface you can customize
-- Two-way rating system for better service
-- Powerful admin tools for managing everything
+See how entrepreneurs are using this source code to build successful businesses on the App Stores.
+
+| Company / App Name | Store Links | Case Study & Review |
+| :--- | :--- | :--- |
+| **1. [Company Name A]**<br>*(Region/Country)* | <a href=""><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a><br><a href=""><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" /></a> | **"⭐⭐⭐⭐⭐"**<br><br>_"We launched in [City] and gained 500 drivers in the first month. The system handled the traffic perfectly."_ <br><br> **Status:** Live & Profitable 💰 |
+| **2. [Company Name B]**<br>*(Region/Country)* | <a href=""><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a><br><a href=""><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" /></a> | **"⭐⭐⭐⭐⭐"**<br><br>_"The admin panel made managing our fleet incredibly easy. Customization was straightforward."_ <br><br> **Status:** Scaling Up 📈 |
+| **3. [Company Name C]**<br>*(Region/Country)* | <a href=""><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a><br><a href=""><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" /></a> | **"⭐⭐⭐⭐⭐"**<br><br>_"Best investment for our taxi startup. The support team helped us deploy in under 3 days."_ <br><br> **Status:** Market Leader 🥇 |
 
 ---
 
-## 📸 App Screenshots
+## 📱 Interface Gallery (Ionic 8)
 
 ### 1. Rider App Experience
 <p align="center">
@@ -75,56 +70,18 @@ Experience the full ecosystem. Download the apps or access the web panel below:
 
 ---
 
-## 🏆 Success Stories: Powered by Our System
+## 🌟 Premium Features: What You Get with the Full System
 
-See how entrepreneurs are using this source code to build successful businesses on the App Stores.
-
-| Company / App Name | Store Links | Case Study & Review |
-| :--- | :--- | :--- |
-| **1. [Company Name A]**<br>*(Region/Country)* | <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a><br><a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" /></a> | **"⭐⭐⭐⭐⭐"**<br><br>_"We launched in [City] and gained 500 drivers in the first month. The system handled the traffic perfectly."_ <br><br> **Status:** Live & Profitable 💰 |
-| **2. [Company Name B]**<br>*(Region/Country)* | <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a><br><a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" /></a> | **"⭐⭐⭐⭐⭐"**<br><br>_"The admin panel made managing our fleet incredibly easy. Customization was straightforward."_ <br><br> **Status:** Scaling Up 📈 |
-| **3. [Company Name C]**<br>*(Region/Country)* | <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a><br><a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" /></a> | **"⭐⭐⭐⭐⭐"**<br><br>_"Best investment for our taxi startup. The support team helped us deploy in under 3 days."_ <br><br> **Status:** Market Leader 🥇 |
-
----
-
-## 🚘 Level Up with Our Premium Features
-
-Ready to take your service to the next level? Our full system includes:
-
-- **A Smart Driver App**: Everything your drivers need to succeed
-- **Powerful Admin Dashboard**: Your control center for success
-- Perfect integration with the rider app
-- Smart features like route planning and business insights
+- **A Smart Driver App**: Optimized for battery and real-time GPS tracking.
+- **Powerful Admin Dashboard**: Complete control over drivers, earnings, and routes.
+- **Flawless Integration**: Perfect connection between Rider, Driver, and Admin.
+- **Smart Business Insights**: Route planning and detailed earnings reports.
 
 <p align="center">
   <a href="https://ko-fi.com/s/7766e6affd" target="_blank">
     <img src="https://img.shields.io/badge/Upgrade%20Now-2196F3?style=for-the-badge&logo=rocket&logoColor=white" alt="Upgrade Now" width="200" />
   </a>
 </p>
-
-## 💼 Why You'll Love Our System
-
-- Start small and grow big
-- Upgrade only when you need to
-- Make it look and work your way
-- Always get help when you need it
-
-<p align="center">
-  <a href="https://wa.me/2347041684556" target="_blank">
-    <img src="https://img.shields.io/badge/Get%20Full%20System-FF6F00?style=for-the-badge&logo=price-tag&logoColor=white" alt="Get Full System" width="250" />
-  </a>
-</p>
-
-### Ready to Start? It's Easy!
-
-1. Grab a copy of our code
-2. Follow our [friendly setup guide](https://chndth.gitbook.io/ionic-taxi-app-setup-doc/v/initial-version/~/changes/Bf7zJSLdMAsMHOKY6eZG)
-3. Make it your own!
-
-## 📄 License Details
-
-- Rider App: Free to use! ([MIT License](LICENSE))
-- Driver App & Dashboard: Professional license (just ask us)
 
 ## 📞 Let's Chat!
 
