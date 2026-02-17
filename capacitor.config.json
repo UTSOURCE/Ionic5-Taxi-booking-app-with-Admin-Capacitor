@@ -1,21 +1,24 @@
 {
-	"appId": "io.ionic.rider",
-	"appName": "myRider",
-	"webDir": "www",
-	"bundledWebRuntime": false,
-	"plugins": {
-		  "Keyboard": {
-			"resize": "none"
-		},
-		  "android": {
-            "allowMixedContent": true
-          },
-		"GoogleAuth": {
-		  "scopes": ["profile", "email"],
-		  "serverClientId": "1033966813085-4477o29hblf4oo90hpdml1omd0ahs429.apps.googleusercontent.com",
-		  "forceCodeForRefreshToken": true
-		},
-		"BackgroundGeolocation": {
+  "appId": "io.ionic.rider",
+  "appName": "myRider",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "Keyboard": {
+      "resize": "none"
+    },
+    "android": {
+      "allowMixedContent": true
+    },
+    "GoogleAuth": {
+      "scopes": [
+        "profile",
+        "email"
+      ],
+      "serverClientId": "YOUR_GOOGLE_OAUTH_CLIENT_ID",
+      "forceCodeForRefreshToken": true
+    },
+    "BackgroundGeolocation": {
       "stationaryRadius": 50,
       "distanceFilter": 50,
       "desiredAccuracy": 10,
@@ -33,5 +36,5 @@
       "activitiesInterval": 10000,
       "stopOnStillActivity": false
     }
-	  }
+  }
 }
