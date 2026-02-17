@@ -94,17 +94,25 @@ Most "Uber clone" templates on the market are **outdated**, built on Ionic 3/4 w
 
 ---
 
-## 🎮 Try Before You Buy — Download the Demo
+## 🎮 Try Before You Buy — Live Demos
 
-See the app running on your own phone. No sign-up required.
+See all 3 apps running live. No install required — open in any browser.
 
 <p align="center">
-  <a href="https://github.com/AfroBlinks/Production-Ready-Real-time-Ride-Sharing-App-Ionic-8-Capacitor-6/releases">
-    <img src="https://img.shields.io/badge/📲%20Download%20Android%20APK%20Demo-Latest%20Release-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK Demo" height="45" />
+  <a href="https://rider-mono.vercel.app/">
+    <img src="https://img.shields.io/badge/🧑‍💼%20Rider%20App-Live%20Demo-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Rider Demo" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://driver-mono.vercel.app/">
+    <img src="https://img.shields.io/badge/🚗%20Driver%20App-Live%20Demo-34A853?style=for-the-badge&logo=ionic&logoColor=white" alt="Driver Demo" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://admin-mono-two.vercel.app/">
+    <img src="https://img.shields.io/badge/�️%20Admin%20Panel-Live%20Demo-FF6B6B?style=for-the-badge&logo=ionic&logoColor=white" alt="Admin Demo" height="45" />
   </a>
 </p>
 
-> The demo APK is a **fully functional** build of the Rider app. Install it, explore every screen, and see the quality for yourself.
+> All demos are **fully functional** PWAs. Open on your phone or desktop, explore every screen, and see the quality for yourself.
 
 ---
 
