@@ -117,7 +117,7 @@ Whether you have your own development team or need a fully managed setup, choose
 - ✅ Firebase Database Rules & Architecture
 - ✅ Basic Setup Documentation
 - ❌ *No personal installation or tech support included.*
-> **👉 [Purchase Source Code Only]([(https://selar.com/77pi8772r8)])**
+> **👉 [Purchase Source Code Only]([https://selar.com/77pi8772r8])**
 
 ### Tier 2: Premium Code + Full Installation ($150)
 *Let us handle the technical heavy lifting so you can focus on your business.*
