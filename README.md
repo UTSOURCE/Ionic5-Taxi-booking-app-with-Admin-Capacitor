@@ -63,51 +63,117 @@ Stop wasting time on outdated templates. **Ride-Share Pro** is built with the fu
 
 ---
 
-## � Visual Showcase
+## 📸 Visual Showcase
 
-### 🧑‍💼 Rider App — _Elegance in Motion_
-Deliver a world-class experience to your customers. From pinpoint map accuracy to seamless package delivery flows.
-
-<p align="center">
- <img src="assets/readme/rider_home.jpg" width="24%" />
- <img src="assets/readme/rider_plan_trip.jpg" width="24%" />
- <img src="assets/readme/rider_package_details.jpg" width="24%" />
- <img src="assets/readme/rider_review_confirm.jpg" width="24%" />
-</p>
-
-### 🚗 Driver App — _Power in the Pocket_
-Maximize your fleet's efficiency with a dashboard that shows everything from earnings to turn-by-turn navigation at a glance.
+### 🧑‍💼 Rider App — _The Ultimate Customer Experience_
+A high-performance, beautiful UI designed for conversions. Featuring smart booking, real-time tracking, and integrated logistics.
 
 <p align="center">
- <img src="assets/readme/driver_dashboard.jpg" width="45%" />
- <img src="assets/readme/driver_active_delivery.jpg" width="45%" />
-</p>
-
-### 🖥️ Admin Panel — _The Command Center_
-Monitor your entire business from a single desktop dashboard. Manage users, track live rides, and adjust prices in real-time.
-
-<p align="center">
- <img src="assets/readme/admin_dashboard.jpg" width="100%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-08-11-371.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-08-23-956.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-08-31-933.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-08-47-677.jpg" width="24%" />
 </p>
 <p align="center">
- <img src="assets/readme/admin_content_manager.jpg" width="49%" />
- <img src="assets/readme/admin_operator_profile.jpg" width="49%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-08-54-887.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-08-58-243.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-09-13-723.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-09-31-169.jpg" width="24%" />
+</p>
+<p align="center">
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-10-06-362.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-10-54-122.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-11-38-917.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-11-43-962.jpg" width="24%" />
+</p>
+<p align="center">
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-11-53-894.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-12-16-184.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-12-21-434.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-12-29-212.jpg" width="24%" />
+</p>
+<p align="center">
+ <img src="assets/readme/rider/bandicam 2026-03-07 10-42-12-735.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 13-09-16-579.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 13-09-49-669.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 13-10-11-735.jpg" width="24%" />
+</p>
+<p align="center">
+ <img src="assets/readme/rider/bandicam 2026-03-07 13-10-38-459.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 13-10-49-460.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 13-11-48-162.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 13-14-32-088.jpg" width="24%" />
+</p>
+
+### 🚗 Driver App — _Optimized for Earnings_
+Simple, intuitive, and feature-rich. Drivers get everything they need to manage their business in real-time.
+
+<p align="center">
+ <img src="assets/readme/driver/bandicam 2026-03-07 10-53-58-505.jpg" width="32%" />
+ <img src="assets/readme/driver/bandicam 2026-03-07 10-54-04-651.jpg" width="32%" />
+ <img src="assets/readme/driver/bandicam 2026-03-07 10-54-25-785.jpg" width="32%" />
+</p>
+<p align="center">
+ <img src="assets/readme/driver/bandicam 2026-03-07 10-55-28-249.jpg" width="32%" />
+ <img src="assets/readme/driver/bandicam 2026-03-07 10-55-39-008.jpg" width="32%" />
+ <img src="assets/readme/driver/bandicam 2026-03-07 10-55-55-861.jpg" width="32%" />
+</p>
+<p align="center">
+ <img src="assets/readme/driver/bandicam 2026-03-07 10-56-34-522.jpg" width="32%" />
+ <img src="assets/readme/driver/bandicam 2026-03-07 13-13-27-365.jpg" width="32%" />
+ <img src="assets/readme/driver/bandicam 2026-03-07 13-13-59-594.jpg" width="32%" />
+</p>
+<p align="center">
+ <img src="assets/readme/driver/bandicam 2026-03-07 13-14-32-088.jpg" width="32%" />
+ <img src="assets/readme/driver/bandicam 2026-03-07 13-14-49-941.jpg" width="32%" />
+ <img src="assets/readme/driver/bandicam 2026-03-07 13-15-09-427.jpg" width="32%" />
+</p>
+
+### 🖥️ Admin Panel — _The Global Command & Control Center_
+A desktop-first dashboard for complete operational visibility. Manage users, monitor finances, and customize app content instantly.
+
+<p align="center">
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-46-16-489.jpg" width="49%" />
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-46-19-028.jpg" width="49%" />
+</p>
+<p align="center">
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-46-35-930.jpg" width="49%" />
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-46-36-874.jpg" width="49%" />
+</p>
+<p align="center">
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-56-23-406.jpg" width="49%" />
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-56-29-473.jpg" width="49%" />
+</p>
+<p align="center">
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-56-32-957.jpg" width="49%" />
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-56-38-030.jpg" width="49%" />
+</p>
+<p align="center">
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-56-44-151.jpg" width="49%" />
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-56-52-454.jpg" width="49%" />
+</p>
+<p align="center">
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-56-58-264.jpg" width="49%" />
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-57-17-553.jpg" width="49%" />
+</p>
+<p align="center">
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-57-22-133.jpg" width="100%" />
 </p>
 
 ---
 
 ## ⚡ Key Features
 
-- � **Real-time Tracking**: Powered by Firebase Realtime Database.
-- � **Global Payments**: Stripe & PayPal integrated.
-- � **Package Delivery**: Built-in support for logistics and courier services.
-- � **OneSignal Push**: Stay connected with drivers and riders instantly.
-- � **Multi-Locale**: Ready for international expansion with 240+ country support.
-- � **Earnings Analytics**: Detailed charts for drivers and admins.
+- 📍 **Real-time Tracking**: Powered by Firebase Realtime Database.
+- 💳 **Global Payments**: Stripe & PayPal integrated.
+- 📦 **Package Delivery**: Built-in support for logistics and courier services.
+- 🔔 **OneSignal Push**: Stay connected with drivers and riders instantly.
+- 🌍 **Multi-Locale**: Ready for international expansion with 240+ country support.
+- 📈 **Earnings Analytics**: Detailed charts for drivers and admins.
 
 ---
 
-## � Get Started
+## 📞 Get Started
 
 Ready to launch your own ride-sharing empire? Grab the source code today or reach out for custom integration services.
 
@@ -120,4 +186,3 @@ Ready to launch your own ride-sharing empire? Grab the source code today or reac
 <p align="center">
   <sub>Built with ❤️ using Ionic 8 • Angular 18 • Capacitor 6</sub>
 </p>
-
