@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/readme/admin_dashboard.jpg" alt="Ride-Share Pro Banner" width="100%" />
+  <img src="assets/readme/admin_dashboard.jpg" alt="Pegasus Banner" width="100%" />
 </p>
 
-<h1 align="center">🚕 Ride-Share Pro: The Ultimate Ionic 8 Uber Clone</h1>
+<h1 align="center">🚀 Pegasus: Enterprise Ride-Share & Logistics Mono-Repo</h1>
 
 <p align="center">
-  <strong>Dual-Service: Ride-Sharing & Package Delivery  •  3 Apps in 1  •  Production-Ready</strong>
+  <strong>A Production-Ready Super Mono-Repo  •  Ride-Hailing & Courier Delivery  •  3 Apps in 1</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="[INSERT_SELAR_LINK]">
+  <a href="[INSERT_SELAR_OR_PAYSTACK_LINK]">
     <img src="https://img.shields.io/badge/💰%20BUY%20SOURCE%20CODE%20--%20$50-success?style=for-the-badge&logo=shopier&logoColor=white" alt="Buy Source Code" height="50" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 ---
 
 ## 📺 Video Walkthrough
-[![Ride-Share Pro Walkthrough](https://img.youtube.com/vi/qmvMEZHhqGw/0.jpg)](https://youtu.be/qmvMEZHhqGw)
+[![Pegasus Walkthrough](https://img.youtube.com/vi/qmvMEZHhqGw/0.jpg)](https://youtu.be/qmvMEZHhqGw)
 
 ---
 
@@ -49,17 +49,26 @@ Experience the speed and elegance of all 3 apps right in your browser. These are
 
 ---
 
-## 🔥 Why Ride-Share Pro?
+## 🔥 Why Pegasus?
 
-Stop wasting time on outdated templates. **Ride-Share Pro** is built with the future in mind, using a stunning **Glassmorphism UI** that will make your app stand out in any market.
+Stop wasting time on outdated templates. **Pegasus** is built with the future in mind, using a stunning **Glassmorphism UI** that will make your app stand out in any market.
 
-| Feature | Competitors | ✅ Ride-Share Pro |
+| Feature | Competitors | ✅ Pegasus |
 |---|---|---|
 | **Design** | Generic / Dated | **Premium Glassmorphism** |
 | **Framework** | Ionic 4–6 (Legacy) | **Ionic 8** (Latest) |
 | **Architecture** | Monolithic | **Modular Standalone Components** |
 | **Business Model** | Single Service | **Dual Service (Rides + Logistics)** |
 | **Ready for Stores** | Often fails review | **Fully Compliant & Scalable** |
+
+---
+
+## 🧠 The Pegasus Architecture (Super Mono-Repo)
+Stop fighting with disconnected codebases. Pegasus is engineered as a highly scalable **Super Mono-Repo**. 
+
+* **Single Codebase, 3 Apps:** Rider, Driver, and Admin apps all live in one clean workspace.
+* **Shared Logic:** Models, interfaces, and core services are written once and shared across all applications. Change a database schema once, and it updates everywhere.
+* **Lightning Fast Builds:** Powered by Angular 18's latest build system and Capacitor 6, giving you native iOS and Android compilation without the headache.
 
 ---
 
@@ -166,10 +175,19 @@ A desktop-first dashboard for complete operational visibility. Manage users, mon
 
 - 📍 **Real-time Tracking**: Powered by Firebase Realtime Database.
 - 💳 **Global Payments**: Stripe & PayPal integrated.
-- 📦 **Package Delivery**: Built-in support for logistics and courier services.
+- 📦 **B2B Logistics & Courier Ready:** Perfect for local transport fleets. Includes live dispatch routing, package status tracking, and optimized fleet management to reduce fuel overhead.
 - 🔔 **OneSignal Push**: Stay connected with drivers and riders instantly.
 - 🌍 **Multi-Locale**: Ready for international expansion with 240+ country support.
 - 📈 **Earnings Analytics**: Detailed charts for drivers and admins.
+
+---
+
+## 📦 What You Get for $50 (Instant Access)
+When you purchase the Pegasus source code, you receive an instant download link containing:
+- ✅ **The Complete Mono-Repo:** Full source code for Rider, Driver, and Admin dashboards.
+- ✅ **Firebase Architecture:** The exact database rules and structure needed to run the app.
+- ✅ **Setup Documentation:** Step-by-step instructions on how to connect your own Firebase, Stripe, and Google Maps API keys.
+- 📜 **Commercial License:** You are free to compile, brand, and launch this app for your own business or your clients. *(Note: This is an "As-Is" code purchase. Custom feature development or personal installation sessions are not included).*
 
 ---
 
