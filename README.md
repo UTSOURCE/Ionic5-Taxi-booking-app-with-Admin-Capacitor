@@ -23,6 +23,32 @@
 
 ---
 
+## 📺 Video Walkthrough
+[![Ride-Share Pro Walkthrough](https://img.youtube.com/vi/qmvMEZHhqGw/0.jpg)](https://youtu.be/qmvMEZHhqGw)
+
+---
+
+## 🎮 Try Before You Buy (Live Demos)
+Experience the speed and elegance of all 3 apps right in your browser. These are high-performance PWAs!
+
+<p align="center">
+  <a href="https://rider-mono.vercel.app/">
+    <img src="https://img.shields.io/badge/🧑‍💼%20Rider%20App%20Demo-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Rider Demo" height="60" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://driver-mono.vercel.app/">
+    <img src="https://img.shields.io/badge/🚗%20Driver%20App%20Demo-34A853?style=for-the-badge&logo=ionic&logoColor=white" alt="Driver Demo" height="60" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://admin-mono-two.vercel.app/">
+    <img src="https://img.shields.io/badge/🖥️%20Admin%20Panel%20Demo-FF6B6B?style=for-the-badge&logo=ionic&logoColor=white" alt="Admin Demo" height="60" />
+  </a>
+</p>
+
+---
+
 ## 🔥 Why Ride-Share Pro?
 
 Stop wasting time on outdated templates. **Ride-Share Pro** is built with the future in mind, using a stunning **Glassmorphism UI** that will make your app stand out in any market.
@@ -78,24 +104,6 @@ Monitor your entire business from a single desktop dashboard. Manage users, trac
 - � **OneSignal Push**: Stay connected with drivers and riders instantly.
 - � **Multi-Locale**: Ready for international expansion with 240+ country support.
 - � **Earnings Analytics**: Detailed charts for drivers and admins.
-
----
-
-## 🎮 Try Before You Buy
-
-Open these links on your phone or desktop to experience the smoothness for yourself.
-
-<p align="center">
-  <a href="https://rider-mono.vercel.app/">
-    <img src="https://img.shields.io/badge/🧑‍💼%20Rider%20Demo-3880FF?style=flat-square" alt="Rider Demo" height="40" />
-  </a>
-  <a href="https://driver-mono.vercel.app/">
-    <img src="https://img.shields.io/badge/🚗%20Driver%20Demo-34A853?style=flat-square" alt="Driver Demo" height="40" />
-  </a>
-  <a href="https://admin-mono-two.vercel.app/">
-    <img src="https://img.shields.io/badge/🖥️%20Admin%20Demo-FF6B6B?style=flat-square" alt="Admin Demo" height="40" />
-  </a>
-</p>
 
 ---
 
