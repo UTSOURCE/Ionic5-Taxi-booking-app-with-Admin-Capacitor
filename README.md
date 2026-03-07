@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://youtu.be/qmvMEZHhqGw">
-    <img src="assets/readme/video-thumbnail.jpg" alt="Click to Watch Pegasus Walkthrough" width="100%" />
+    <img src="https://img.youtube.com/vi/qmvMEZHhqGw/maxresdefault.jpg" alt="Click to Watch Pegasus Walkthrough" width="100%" />
   </a>
 </p>
 
