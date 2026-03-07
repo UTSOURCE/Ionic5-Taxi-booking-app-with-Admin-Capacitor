@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <a href="https://youtu.be/qmvMEZHhqGw"><strong>▶️ Click Here to Watch the Full Video Walkthrough</strong></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Ionic-8-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic 8" />
   <img src="https://img.shields.io/badge/Angular-18-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular 18" />
   <img src="https://img.shields.io/badge/Capacitor-6-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor 6" />
