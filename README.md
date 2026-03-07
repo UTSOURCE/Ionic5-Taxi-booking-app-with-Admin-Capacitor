@@ -117,7 +117,7 @@ Whether you have your own development team or need a fully managed setup, choose
 - ✅ Firebase Database Rules & Architecture
 - ✅ Basic Setup Documentation
 - ❌ *No personal installation or tech support included.*
-> **👉 [Purchase Source Code Only]([INSERT_BASIC_PAYMENT_LINK])**
+> **👉 [Purchase Source Code Only]([(https://selar.com/77pi8772r8)])**
 
 ### Tier 2: Premium Code + Full Installation ($150)
 *Let us handle the technical heavy lifting so you can focus on your business.*
@@ -125,7 +125,7 @@ Whether you have your own development team or need a fully managed setup, choose
 - ✅ **Complete Server Setup:** We configure your Firebase database, authentication, and security rules.
 - ✅ **API Integration:** Setup for Google Maps, Stripe, and Push Notifications.
 - ✅ **1-on-1 Setup Call:** A brief remote session to hand over the system and explain the architecture.
-> **👉 [Purchase Premium Installation]([INSERT_PREMIUM_PAYMENT_LINK])**
+> **👉 [Purchase Premium Installation]([https://selar.com/77pi8772r8])**
 
 ---
 
