@@ -119,13 +119,13 @@ Whether you have your own development team or need a fully managed setup, choose
 - ❌ *No personal installation or tech support included.*
 > **👉 [![Purchase Source Code](https://img.shields.io/badge/Purchase_Full_Source_Code_Only--$50-09A5DB?style=for-the-badge)](https://paystack.com/buy/super-app-mono-repo-ontthv)**
 
-### Tier 2: Premium Code + Full Installation ($150)
+### Tier 2: Premium Code + Full Installation
 *Let us handle the technical heavy lifting so you can focus on your business.*
 - ✅ **Everything in Tier 1**
 - ✅ **Complete Server Setup:** We configure your Firebase database, authentication, and security rules.
 - ✅ **API Integration:** Setup for Google Maps, Stripe, and Push Notifications.
 - ✅ **1-on-1 Setup Call:** A brief remote session to hand over the system and explain the architecture.
-> **👉 [![Purchase Source Code](https://img.shields.io/badge/Purchase_Full_Source_Code_Only--$50-09A5DB?style=for-the-badge)](https://paystack.com/buy/super-app-mono-repo-ontthv)**
+> **👉 [![Purchase Source Code](https://img.shields.io/badge/Purchase_Full_Source_Installation--09A5DB?style=for-the-badge)](https://pegasus-superapp-monorepo.vercel.app/index.html)**
 
 ---
 
