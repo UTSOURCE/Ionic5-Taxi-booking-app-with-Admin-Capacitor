@@ -40,11 +40,11 @@ Experience the speed and elegance of the entire 5-part ecosystem right in your b
   </a>
 </p>
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/🏪%20Vendor_Terminal_(Demo_Coming_Soon)-E11D48?style=for-the-badge&logo=ionic&logoColor=white" alt="Vendor Demo" height="40" />
+  <a href="https://vendormono.vercel.app/">
+    <img src="https://img.shields.io/badge/🏪%20Vendor_Terminal_-E11D48?style=for-the-badge&logo=ionic&logoColor=white" alt="Vendor Demo" height="40" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/💻%20B2B_Dispatcher_(Demo_Coming_Soon)-F97316?style=for-the-badge&logo=ionic&logoColor=white" alt="Dispatch Demo" height="40" />
+  <a href="https://pegasus-superapp-monorepo-9tuw.vercel.app/">
+    <img src="https://img.shields.io/badge/💻%20B2B_Dispatcher_-F97316?style=for-the-badge&logo=ionic&logoColor=white" alt="Dispatch Demo" height="40" />
   </a>
 </p>
 
