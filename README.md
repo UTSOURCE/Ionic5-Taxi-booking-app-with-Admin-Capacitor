@@ -110,7 +110,7 @@ Stop fighting with disconnected codebases. This architecture is engineered as a 
 
 Whether you have your own development team or need a fully managed setup, choose the tier that fits your needs:
 
-### Tier 1: Developer License ($50)
+### Tier 1: Developer License ($10)
 *Perfect for engineering teams and indie hackers ready to build.*
 - ✅ Full 5-Part Mono-Repo Source Code
 - ✅ Firebase Database Rules & Architecture
