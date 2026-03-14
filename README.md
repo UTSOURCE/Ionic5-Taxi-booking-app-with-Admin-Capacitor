@@ -116,7 +116,7 @@ Whether you have your own development team or need a fully managed setup, choose
 - ✅ Firebase Database Rules & Architecture
 - ✅ Raw SCSS & Design Tokens
 - ✅ Standard Setup Documentation
-> **👉 [![Purchase Source Code](https://img.shields.io/badge/Buy_Source_Code--$10-09A5DB?style=for-the-badge)](https://pegasus-superapp-monorepo.vercel.app/index.html#pricing)**
+> **👉 [![Purchase Source Code](https://img.shields.io/badge/Buy_Source_Code--$10-09A5DB?style=for-the-badge)](https://paystack.com/buy/super-app-mono-repo-ontthv)**
 
 ### Tier 2: Enterprise Custom Installation
 *For Founders who want to skip the code and launch immediately. Let our Lead Architect handle the heavy lifting.*
@@ -125,7 +125,7 @@ Whether you have your own development team or need a fully managed setup, choose
 - ✅ **White-Label Branding:** We inject your custom logos, colors, and splash screens.
 - ✅ **Store Deployment:** Assistance pushing to the App Store & Google Play.
 - ✅ **Escrow Protection:** Handled via secure Upwork Direct Contracts.
-> **👉 [![Request Enterprise Setup](https://img.shields.io/badge/Request_Enterprise_Setup--Custom_Quote-10B981?style=for-the-badge)](https://pegasus-superapp-monorepo.vercel.app/index.html#pricing)**
+> **👉 [![Request Enterprise Setup](https://img.shields.io/badge/Request_Enterprise_Setup--Custom_Quote-10B981?style=for-the-badge)](https://wa.me/2347041684556)**
 
 ---
 
