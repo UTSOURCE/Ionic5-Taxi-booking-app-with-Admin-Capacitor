@@ -116,7 +116,7 @@ Whether you have your own development team or need a fully managed setup, choose
 - ✅ Firebase Database Rules & Architecture
 - ✅ Raw SCSS & Design Tokens
 - ✅ Standard Setup Documentation
-> **👉 [![Purchase Source Code](https://img.shields.io/badge/Buy_Source_Code--$50-09A5DB?style=for-the-badge)](https://pegasus-superapp-monorepo.vercel.app/index.html#pricing)**
+> **👉 [![Purchase Source Code](https://img.shields.io/badge/Buy_Source_Code--$10-09A5DB?style=for-the-badge)](https://pegasus-superapp-monorepo.vercel.app/index.html#pricing)**
 
 ### Tier 2: Enterprise Custom Installation
 *For Founders who want to skip the code and launch immediately. Let our Lead Architect handle the heavy lifting.*
