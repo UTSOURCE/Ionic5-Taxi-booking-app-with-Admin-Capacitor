@@ -144,5 +144,9 @@ Have questions about commercial rights, plugins, or connecting your own API keys
 </p>
 
 <p align="center">
+  <sub>Chndth@gmail.com</sub>
+</p>
+
+<p align="center">
   <sub>Built with ❤️ for Global Scale.</sub>
 </p>
