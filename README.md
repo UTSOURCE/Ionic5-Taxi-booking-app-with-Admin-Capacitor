@@ -14,7 +14,7 @@
   <a href="https://youtu.be/qmvMEZHhqGw"><strong>▶️ Click Here to Watch the Full Video Walkthrough</strong></a><br>
   
 
-> 🚀 **Looking for the latest production-ready version?** > Get the fully updated **Ionic 8 & Angular 18** source code, complete with premium support and comprehensive documentation, at **[SellJustCode.com](https://selljustcode.com/product/prod_1775813894418)**.
+> 🚀 **Looking for the latest production-ready version?** > Get the fully updated **Ionic 8 & Angular 18** source code, complete with premium support and comprehensive documentation, at **[upwork.com](https://www.upwork.com/services/product/development-it-enterprise-5-part-super-app-ionic-8-angular-18-capacitor-6-firebase-2036143795114837446?ref=project_share)**.
 ## 🎮 Try Before You Buy (Live Demos)
 Experience the speed and elegance of the entire 5-part ecosystem right in your browser.
 
@@ -118,13 +118,13 @@ Stop fighting with disconnected codebases. This architecture is engineered as a 
 
 Whether you have your own development team or need a fully managed setup, choose the tier that fits your needs:
 
-### Tier 1: Developer License ($50)
+### Tier 1: Developer License ($199)
 *Perfect for engineering teams and indie hackers ready to build.*
 - ✅ Full 5-Part Mono-Repo Source Code
 - ✅ Firebase Database Rules & Architecture
 - ✅ Raw SCSS & Design Tokens
 - ✅ Standard Setup Documentation
-> **👉 [![Purchase Source Code](https://img.shields.io/badge/Buy_Source_Code--$50-09A5DB?style=for-the-badge)](https://selljustcode.com/)**
+> **👉 [![Purchase Source Code](https://img.shields.io/badge/Buy_Source_Code--$50-09A5DB?style=for-the-badge)](https://www.upwork.com/services/product/development-it-enterprise-5-part-super-app-ionic-8-angular-18-capacitor-6-firebase-2036143795114837446?ref=project_share)**
 
 ### Tier 2: Enterprise Custom Installation
 *For Founders who want to skip the code and launch immediately. Let our Lead Architect handle the heavy lifting.*
@@ -133,7 +133,7 @@ Whether you have your own development team or need a fully managed setup, choose
 - ✅ **White-Label Branding:** We inject your custom logos, colors, and splash screens.
 - ✅ **Store Deployment:** Assistance pushing to the App Store & Google Play.
 - ✅ **Escrow Protection:** Handled via secure Upwork Direct Contracts.
-> **👉 [![Request Enterprise Setup](https://img.shields.io/badge/Request_Enterprise_Setup--Custom_Quote-10B981?style=for-the-badge)](https://wa.me/2347041684556)**
+> **👉 [![Request Enterprise Setup](https://img.shields.io/badge/Request_Enterprise_Setup--Custom_Quote-10B981?style=for-the-badge)](https://www.upwork.com/services/product/development-it-enterprise-5-part-super-app-ionic-8-angular-18-capacitor-6-firebase-2036143795114837446?ref=project_share)**
 
 ---
 
@@ -146,7 +146,7 @@ Have questions about commercial rights, plugins, or connecting your own API keys
     <img src="https://img.shields.io/badge/Read_The_FAQ-Click_Here-333333?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/2347041684556">
+  <a href="https://www.upwork.com/freelancers/~014b5c8c2dd7994eff?mp_source=share">
     <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
