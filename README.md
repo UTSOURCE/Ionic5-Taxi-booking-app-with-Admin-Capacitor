@@ -1,7 +1,7 @@
 <h1 align="center">Ionic 8 & Angular 18 Super App Architecture: Taxi, Delivery, & Multi-Vendor Dispatch</h1>
 
 <p align="center">
-  <strong>Enterprise 5-Part Mono-Repo  •  Ride-Hailing, Food Delivery & Logistics  •  5 Apps in 1</strong>
+  <strong>Production-Ready iOS & Android Native App Ecosystem  •  5 Integrated Apps in 1 Monorepo</strong>
 </p>
 
 <p align="center">
@@ -11,150 +11,119 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/qmvMEZHhqGw"><strong>▶️ Click Here to Watch the Full Video Walkthrough</strong></a><br>
-  
-
-> 🚀 **Looking for the latest production-ready version?** > Get the fully updated **Ionic 8 & Angular 18** source code, complete with premium support and comprehensive documentation, at **[upwork.com](https://www.upwork.com/services/product/development-it-enterprise-5-part-super-app-ionic-8-angular-18-capacitor-6-firebase-2036143795114837446?ref=project_share)**.
-## 🎮 Try Before You Buy (Live Demos)
-Experience the speed and elegance of the entire 5-part ecosystem right in your browser.
-
-<p align="center">
-  <a href="https://rider-mono.vercel.app/">
-    <img src="https://img.shields.io/badge/🧑‍💼%20Rider%20App-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Rider Demo" height="50" />
-  </a>
-  <a href="https://driver-mono.vercel.app/">
-    <img src="https://img.shields.io/badge/🚗%20Driver%20App-34A853?style=for-the-badge&logo=ionic&logoColor=white" alt="Driver Demo" height="50" />
-  </a>
-  <a href="https://admin-mono-two.vercel.app/">
-    <img src="https://img.shields.io/badge/🖥️%20Super%20Admin-FF6B6B?style=for-the-badge&logo=ionic&logoColor=white" alt="Admin Demo" height="50" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://vendormono.vercel.app/">
-    <img src="https://img.shields.io/badge/🏪%20Vendor_Terminal_-E11D48?style=for-the-badge&logo=ionic&logoColor=white" alt="Vendor Demo" height="40" />
-  </a>
-  <a href="https://pegasus-superapp-monorepo-9tuw.vercel.app/">
-    <img src="https://img.shields.io/badge/💻%20B2B_Dispatcher_-F97316?style=for-the-badge&logo=ionic&logoColor=white" alt="Dispatch Demo" height="40" />
-  </a>
-    <a href="https://drive.google.com/drive/folders/14PLJyFE9DSD0Yi3reAs6IwfxpAKxGG_h">
-    <img src="https://img.shields.io/badge/🏪%20APK_-E11D48?style=for-the-badge&logo=ionic&logoColor=white" alt="APK DEMO" height="40" />
-  </a>
+  <a href="https://youtu.be/qmvMEZHhqGw"><strong>▶️ Click Here to Watch the Full Video Walkthrough</strong></a>
 </p>
 
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ionic-8.0-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic 8" />
-  <img src="https://img.shields.io/badge/Angular-18.2-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular 18" />
-  <img src="https://img.shields.io/badge/Capacitor-6.1-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor 6" />
-  <img src="https://img.shields.io/badge/Firebase-11.0-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Node.js-22.0-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-</p>
+> 🚀 **Get the Production Codebase & Customization Services:**
+> Secure the fully updated **Ionic 8 & Angular 18** source code, complete with premium configuration support and architectural documentation, with secure escrow payment protection directly on **[Upwork Project Catalog](https://www.upwork.com/services/product/development-it-enterprise-5-part-super-app-ionic-8-angular-18-capacitor-6-firebase-2036143795114837446?ref=project_share)**.
 
 ---
 
+## 📱 Real Mobile Apps (Not Just Web Pages)
 
+This ecosystem is engineered for cross-platform native execution. Powered by **Capacitor 6**, the codebase compiles directly into high-performance, native binaries for **Android (.APK/.AAB)** and **iOS (.IPA)**, using native device hardware, background geolocation, and push notifications.
 
+### 🎮 Test the Live Demos Instantly
+
+To make evaluation seamless, you can test the apps in two ways:
+
+#### 🤖 Option A: Install the Native Android Build (Recommended)
+Download and install the compiled Android package directly to experience true mobile performance, native transitions, and smooth background tracking:
+👉 **[Download the Live Demo Android APK](https://drive.google.com/drive/folders/14PLJyFE9DSD0Yi3reAs6IwfxpAKxGG_h)**
+
+#### 🖥️ Option B: Inspect the Architecture via Web Apps
+If you are on a desktop browser, you can inspect the responsive UI, glassmorphic layout, and live synchronization engine across the modules:
+* 🧑‍💼 **[Launch Rider Web Demo](https://rider-mono.vercel.app/)** — *Bidding UI, order flows, profile tracking.*
+* 🚗 **[Launch Driver Web Demo](https://driver-mono.vercel.app/)** — *Counter-offer system, active ride state simulation.*
+* 🖥️ **[Launch Super Admin Web Demo](https://admin-mono-two.vercel.app/)** — *Fleet overview, global commission variables.*
+* 🏪 **[Launch Vendor Terminal Web Demo](https://vendormono.vercel.app/)** — *Order management interface for stores/restaurants.*
+* 💻 **[Launch B2B Corporate Dispatcher](https://pegasus-superapp-monorepo-9tuw.vercel.app/)** — *Hotel/airport manual reservation desk.*
 
 ---
 
 ## 🔥 Why This Architecture?
 
-This is not a generic, abandoned UI template. This is a production-ready **Super App Ecosystem** engineered to replace expensive monthly SaaS subscriptions (like Onde or Tookan) with a system you own entirely. 
+This is a production-ready **Super App Ecosystem** engineered to replace expensive monthly SaaS subscriptions (like Onde or Tookan) with a system you own entirely. 
 
-| Feature | Competitors | ✅ The Super App Architecture |
+| Feature | Competitors | ✅ This Super App Architecture |
 |---|---|---|
-| **Design** | Generic / Dated | **Premium Glassmorphism & Dark Mode** |
-| **Framework** | Ionic 4–6 (Legacy) | **Ionic 8 & Angular 18** (Latest) |
-| **Architecture** | Disconnected Repos | **Modular Standalone Components (Nx Style)** |
-| **Business Model** | Single Service | **Taxi, Logistics, Food & Pharmacy Delivery** |
-| **B2B Features** | None | **Dedicated Hotel/Airport Dispatch Kiosk** |
+| **Native Engine** | Web-view reliant wrappers | **Capacitor 6 Native Bridge** (Direct iOS/Android APIs) |
+| **Design Language** | Generic / Dated templates | **Premium Glassmorphism & Adaptive Dark Mode** |
+| **Framework Stack** | Legacy Ionic 4–6 / Angular 12 | **Ionic 8 & Angular 18** (Latest Ivy Engine) |
+| **Architecture** | Fractured, disconnected repos | **Modular Monorepo Workspace** (Nx/Shared Services) |
+| **B2B Capabilities** | Basic point-to-point delivery | **Integrated Hotel/Airport Booking Kiosks** |
 
 ---
 
-## 🧠 The Engine (Super Mono-Repo)
-Stop fighting with disconnected codebases. This architecture is engineered as a highly scalable **Super Mono-Repo**. 
+## 🧠 The Engine (Shared Workspace Monorepo)
 
-* **Single Codebase, 5 Applications:** Rider, Driver, Admin, Vendor, and Dispatch apps all live in one clean workspace.
-* **Shared Logic:** Models, interfaces, and core Firebase services are written once and shared across all applications. Change a database schema once, and it updates everywhere.
-* **Lightning Fast Builds:** Powered by Angular 18's latest build system and Capacitor 6, giving you native iOS and Android compilation without the headache.
+Stop fighting with separate, disconnected codebases that break during deployment. This entire system is structured as a single unified monorepo.
+* **Single Codebase, 5 Core Targets:** The Rider, Driver, Admin, Vendor, and Dispatch apps share a core layout. 
+* **Write Once, Share Everywhere:** Models, data interfaces, and real-time Firebase services are decoupled. Modifying a backend data schema updates the dependencies across all 5 apps automatically.
+* **Resilient Sync Engine:** Features a dedicated, offline-first service worker architecture ensuring zero transaction loss during cellular network drops.
 
 ---
 
-## 📸 Visual Showcase
+## 📸 Core Modules Overview
 
-### 🧑‍💼 Rider App — _The Ultimate Customer Experience_
-*Features: inDrive Bid-based Pricing, Live Geo-tracking, Multi-Payment Stack.*
+### 🧑‍💼 Rider App — *The Premium Customer Interface*
+*Features: inDrive style bid-based pricing, real-time Google Maps geolocation tracking, split multi-payment gates.*
 <p align="center">
- <img src="assets/readme/rider/bandicam 2026-03-07 00-08-11-371.jpg" width="24%" />
- <img src="assets/readme/rider/bandicam 2026-03-07 00-08-23-956.jpg" width="24%" />
- <img src="assets/readme/rider/bandicam 2026-03-07 00-08-31-933.jpg" width="24%" />
- <img src="assets/readme/rider/bandicam 2026-03-07 00-08-47-677.jpg" width="24%" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-08-11-371.jpg" width="24%" alt="Rider Search" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-08-23-956.jpg" width="24%" alt="Bidding View" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-08-31-933.jpg" width="24%" alt="Ride Details" />
+ <img src="assets/readme/rider/bandicam 2026-03-07 00-08-47-677.jpg" width="24%" alt="Rider Profile" />
 </p>
 
-### 🚗 Driver App — _Optimized for Fleet Earnings_
-*Features: Real-time Ride Bidding, Background GPS tracking, Earnings Heatmaps.*
+### 🚗 Driver App — *Engineered for Fleet Performance*
+*Features: Real-time fair counter-offers, active background GPS background tracking daemon, historic earnings metrics.*
 <p align="center">
- <img src="assets/readme/driver/bandicam 2026-03-07 10-53-58-505.jpg" width="32%" />
- <img src="assets/readme/driver/bandicam 2026-03-07 10-54-04-651.jpg" width="32%" />
- <img src="assets/readme/driver/bandicam 2026-03-07 10-54-25-785.jpg" width="32%" />
+ <img src="assets/readme/driver/bandicam 2026-03-07 10-53-58-505.jpg" width="32%" alt="Driver Map" />
+ <img src="assets/readme/driver/bandicam 2026-03-07 10-54-04-651.jpg" width="32%" alt="Incoming Bids" />
+ <img src="assets/readme/driver/bandicam 2026-03-07 10-54-25-785.jpg" width="32%" alt="Driver Status" />
 </p>
 
-### 🖥️ Admin Panel — _Global Command & Control_
-*Features: Dynamic Fleet Control, Commission Settings, Analytics Dashboard.*
+### 🖥️ Admin Panel — *Global Platform Orchestration*
+*Features: Dynamic driver verified onboarding approval, percentage-based commission variables, live transaction streaming charts.*
 <p align="center">
- <img src="assets/readme/admin/bandicam 2026-03-07 11-46-16-489.jpg" width="49%" />
- <img src="assets/readme/admin/bandicam 2026-03-07 11-46-19-028.jpg" width="49%" />
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-46-16-489.jpg" width="49%" alt="Admin Metrics" />
+ <img src="assets/readme/admin/bandicam 2026-03-07 11-46-19-028.jpg" width="49%" alt="Fleet View" />
 </p>
-
-### 🏪 Vendor System & 💻 Web Dispatcher
-*(Screenshots uploading shortly)*
-* **Vendor OS:** Tablet-optimized UI for restaurant/pharmacy staff to accept and prep orders.
-* **Web Dispatcher:** B2B Call Center interface for manual booking entry and hotel reception kiosks.
 
 ---
 
-## 💳 Licensing & Installation
+## 🛠️ Professional Services & Customization
 
-Whether you have your own development team or need a fully managed setup, choose the tier that fits your needs:
+Select the configuration framework that best matches your timeline. All engagement contracts, code handovers, and milestone payments are managed through Upwork’s secure escrow system.
 
-### Tier 1: Developer License ($199)
-*Perfect for engineering teams and indie hackers ready to build.*
-- ✅ Full 5-Part Mono-Repo Source Code
-- ✅ Firebase Database Rules & Architecture
-- ✅ Raw SCSS & Design Tokens
-- ✅ Standard Setup Documentation
-> **👉 [![Purchase Source Code](https://img.shields.io/badge/Buy_Source_Code--$50-09A5DB?style=for-the-badge)](https://www.upwork.com/services/product/development-it-enterprise-5-part-super-app-ionic-8-angular-18-capacitor-6-firebase-2036143795114837446?ref=project_share)**
+### Package 1: Core Framework Handover ($199)
+*For development teams looking to use this architecture as an accelerated foundation.*
+* Full 5-App unified monorepo source code access.
+* Complete Firestore backend collections maps, indexing parameters, and security rules configurations.
+* Comprehensive interactive development installation manuals.
+* 1 hour of asynchronous architectural consultation support.
+> 👉 **[Secure Codebase via Upwork](https://www.upwork.com/services/product/development-it-enterprise-5-part-super-app-ionic-8-angular-18-capacitor-6-firebase-2036143795114837446?ref=project_share)**
 
-### Tier 2: Enterprise Custom Installation
-*For Founders who want to skip the code and launch immediately. Let our Lead Architect handle the heavy lifting.*
-- ✅ **Everything in Tier 1**
-- ✅ **Complete Server Setup:** Done-for-you Firebase & Google Maps API configuration.
-- ✅ **White-Label Branding:** We inject your custom logos, colors, and splash screens.
-- ✅ **Store Deployment:** Assistance pushing to the App Store & Google Play.
-- ✅ **Escrow Protection:** Handled via secure Upwork Direct Contracts.
-> **👉 [![Request Enterprise Setup](https://img.shields.io/badge/Request_Enterprise_Setup--Custom_Quote-10B981?style=for-the-badge)](https://www.upwork.com/services/product/development-it-enterprise-5-part-super-app-ionic-8-angular-18-capacitor-6-firebase-2036143795114837446?ref=project_share)**
+### Package 2: Full Setup, Customization & White-Labeling ($799)
+*For operators who want a turnkey launch. I handle the systems configuration and visual asset pipeline for you.*
+* **Everything in Package 1 included.**
+* **Complete Infrastructure Provisioning:** I configure your isolated Firebase instances and map required Google Maps API billing frameworks.
+* **White-Label Visual Customization:** Full integration of your commercial asset parameters (business logos, native app splash screens, UI color palette variables).
+* **Production Native Compilations:** Delivery of signed, store-ready Android binaries (.APK/.AAB) customized to your corporate operations profile.
+> 👉 **[Request Full Custom Installation on Upwork](https://www.upwork.com/services/product/development-it-enterprise-5-part-super-app-ionic-8-angular-18-capacitor-6-firebase-2036143795114837446?ref=project_share)**
 
 ---
 
-## 📞 Technical Due Diligence & FAQ
+## ❓ Technical Due Diligence & Architecture FAQ
 
-Have questions about commercial rights, plugins, or connecting your own API keys? Read our full Technical Due Diligence FAQ on the official site. 
+Need to review full technical details regarding third-party plugins, payment gateways, or scalable licensing controls before acquiring? Read the architectural documentation directly on our platform.
 
 <p align="center">
   <a href="https://pegasus-superapp-monorepo.vercel.app/index.html#faq">
-    <img src="https://img.shields.io/badge/Read_The_FAQ-Click_Here-333333?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~014b5c8c2dd7994eff?mp_source=share">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Read_The_Architecture_FAQ-Click_Here-333333?style=for-the-badge" alt="Read FAQ" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Chndth@gmail.com</sub>
-</p>
-
-<p align="center">
-  <sub>Built with ❤️ for Global Scale.</sub>
+  <sub>Built for Enterprise Scale and Network Efficiency.</sub>
 </p>
